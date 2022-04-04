@@ -1,6 +1,6 @@
 # Goodspeed Aerospace
 
-## by  [Gaius][gaius] Goodspeed
+## by [`Gaius`][gaius] Goodspeed
 
 ![avatar](https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/profile/photo-66495.png)
 
