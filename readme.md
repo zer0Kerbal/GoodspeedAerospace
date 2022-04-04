@@ -22,6 +22,9 @@ If you downloaded 2014.4.1 earlier today (April 1st), be sure to download 2014.4
 
 > [Javascript is disabled. View full album](https://imgur.com/a/u4K9v)
 
+This parts pack add-on is an assortment of vaguely stock-alike parts, most requiring no additional texture memory (they mostly have unique models, but reuse stock part textures to save memory and achieve a stock-alike look). I've been adding my own parts to the game for about a year, filling in holes needing to be filled but either weren't filled by other mods, or the other mods weren't stock-like, or required more memory. For Kerbal Space Program.
+
+
 This pack is an assortment of vaguely stock-alike parts, many tweakable, most requiring no additional texture memory (they mostly have unique models, but reuse stock part textures to save memory and achieve a stock-alike look). I've been adding my own parts to the game for about a year, filling in holes I thought needed to be filled but either weren't filled by other mods, or the other mods weren't stock-like, or required more memory than I wanted to use. The parts to be found in this pack are:
 
 
