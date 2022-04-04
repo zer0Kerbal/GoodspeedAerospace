@@ -1,10 +1,10 @@
 # Goodspeed Aerospace
 
-## by Gaius [Goodspeed][goodspeed]
+## by  [Gaius][gaius] Goodspeed
 
 ![avatar](https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/profile/photo-66495.png)
 
-[goodspeed]: https://forum.kerbalspaceprogram.com/index.php?/profile/66495-*/ "Gaius Goodspeed"
+[gaius]: https://forum.kerbalspaceprogram.com/index.php?/profile/66495-*/ "Gaius Goodspeed"
 
 
 Forum:      https://forum.kerbalspaceprogram.com/index.php?/topic/65819-*/
