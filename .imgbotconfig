@@ -1,0 +1,22 @@
+{
+    "schedule": "weekly",
+    "ignoredFiles": [
+        "GameData/*",
+        "docs/LegalMumboJumbo/*",
+        "GameDataGoodSpeedAerospace/*",
+        "GameDataGoodSpeedAerospace/Textures/*",
+        "GameDataGoodSpeedAerospace/Parts/@thumbs/*",
+        "source/*",
+        "**/Assets/**",
+        "**/Flags/**",
+        "**/Agents/**",
+        "**/Textures/**",
+        "**/UI/**",
+        "**/PluginData/**",
+        "**/Icons/**",
+        "**/@thumbs/**"
+    ],
+    "aggressiveCompression": "false",
+    "compressWiki": "true",
+    "minKBReduced": 500
+}
