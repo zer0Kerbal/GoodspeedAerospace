@@ -14,7 +14,7 @@ repository:
   description: This parts pack add-on is an assortment of vaguely stock-alike parts, most requiring no additional texture memory (they mostly have unique models, but reuse stock part textures to save memory and achieve a stock-alike look). I've been adding my own parts to the game for about a year, filling in holes needing to be filled but either weren't filled by other mods, or the other mods weren't stock-like, or required more memory. For Kerbal Space Program.
 
   # A URL with more information about the repository
-  homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/65819-*/
+  homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/208894-*/
   
   # A comma-separated list of topics to set on the repository
   topics: goodspeed,aerospace,parts,kerbal,kerbalspaceprogram,ksp,ksp-mods,ksp-parts,kerbal-space,kerbal-space-program,kerbal-mods,zedk,giaus
