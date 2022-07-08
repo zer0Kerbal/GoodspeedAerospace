@@ -1,0 +1,16 @@
+Goodspeed Aerospace Pack
+
+## Giaus Goodspeed
+
+this archive has been modified:
+* structure
+* part configs modified to reflect
+  * folder structure changes
+  * MODULE[TweakScale] namechange from MODULE[GoodspeedTweakScale]
+* contents removed
+  * MACOS files
+  * plugins (TweakScale and ModuleManager)
+* contents added
+  * this readme.txt
+  * GoodspeedAerospace.version
+* by zer0Kerbal
