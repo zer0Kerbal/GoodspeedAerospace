@@ -167,7 +167,6 @@ or [![CKAN][CKAN:img]][CKAN:url]
 
 ---
 
-
 <!-- mod links -->
 [MOD:attr]: https://zer0kerbal.github.io/GoodspeedAerospace/Attributions "Attribution"
 [MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/GoodspeedAerospace/master/changelog.md  "Changelog"
