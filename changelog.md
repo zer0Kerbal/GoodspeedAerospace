@@ -17,12 +17,32 @@
 
 ---
 
-## Version 0.4.4.2-release `<EDITION>` edition
+## Version 0.4.4.2-release `<Gaius Goodspeed>` edition
+
+* 07 JuL 2022
+* For Kerbal Space Program 1.3.1
+
+* no changelog provided
+* last release by original author [Giaus] Goodspeed
+* this archive has been modified:
+  * structure
+  * part configs modified to reflect
+    * folder structure changes
+    * MODULE[TweakScale] namechange from MODULE[GoodspeedTweakScale]
+  * contents removed
+    * MACOS files
+    * plugins (TweakScale and ModuleManager)
+  * contents added
+    * this readme.txt
+    * GoodspeedAerospace.version
+  * by zer0Kerbal
+
+---
+
+## Version 0.4.4.1b-release `<Original Author>` edition
 
 * 10 Jun 2014
 * For Kerbal Space Program 0.23.5
 
 * no changelog provided
 * last release by original author [Giaus] Goodspeed
-
----
