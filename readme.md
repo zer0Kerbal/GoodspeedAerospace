@@ -177,7 +177,7 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [MOD:licns]: https://github.com/zer0Kerbal/GoodspeedAerospace/blob/master/LICENSE "Github License"[MOD:markt]: https://zer0kerbal.github.io/GoodspeedAerospace/Marketing "Marketing Slicks"
 [MOD:notic]: https://zer0kerbal.github.io/GoodspeedAerospace/Notices "Notices"
 [MOD:parts]: https://zer0kerbal.github.io/GoodspeedAerospace/PartsCatalog "Parts Catalog"
-[MOD:pages]: https://zer0kerbal.github.io/GoodspeedAerospace/ "GitHub Pages"
+[MOD:pages]: https://zer0kerbal.github.io/GoodspeedAerospace "GitHub Pages"
 
 <!--- mod -->
 [MOD:shd:latest]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/GoodspeedAerospace/master/json/mod.json
