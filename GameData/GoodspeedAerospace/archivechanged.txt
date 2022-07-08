@@ -4,7 +4,9 @@ Goodspeed Aerospace Pack
 
 this archive has been modified:
 * structure
-* part configs modified to reflect folder structure changes
+* part configs modified to reflect
+  * folder structure changes
+  * MODULE[TweakScale] namechange from MODULE[GoodspeedTweakScale]
 * contents removed
   * MACOS files
   * plugins (TweakScale and ModuleManager)
