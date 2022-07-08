@@ -28,7 +28,7 @@
   * structure
   * part configs modified to reflect
     * folder structure changes
-    * MODULE[TweakScale] namechange from MODULE[GoodspeedTweakScale]
+    * MODULE[TweakScale] name change from MODULE[GoodspeedTweakScale]
   * contents removed
     * MACOS files
     * plugins (TweakScale and ModuleManager)
@@ -46,3 +46,5 @@
 
 * no changelog provided
 * last release by original author [Giaus] Goodspeed
+
+---
